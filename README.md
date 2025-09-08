@@ -8,3 +8,4 @@
 مدیریت تعداد نیروی مورد نیاز
 گزارش نهایی
 و ...
+[نمونه](https://github.com/hnadi14/shift/blob/main/Capture.PNG)
